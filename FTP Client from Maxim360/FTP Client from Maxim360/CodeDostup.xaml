@@ -1,0 +1,16 @@
+﻿<Window x:Class="FTP_Client_from_Maxim360.CodeDostup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FTP_Client_from_Maxim360"
+        mc:Ignorable="d"
+        Title="No FTP" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="450" VerticalAlignment="Top" Width="800" Source="pack://siteoforigin:,,,/Resources/Reg_Kod.png"/>
+        <PasswordBox x:Name="CodeDostupe" HorizontalAlignment="Left" Margin="133,177,0,0" Height="40" VerticalAlignment="Top" Width="533" FontFamily="Impact"/>
+        <Button x:Name="OkBttn" Content="" HorizontalAlignment="Left" Margin="588,230,0,0" VerticalAlignment="Top" Width="80" Height="40" Background="#00FF0000" Foreground="Black" BorderBrush="#3300FF5D" Opacity="0.3" Click="OkBttn_Click"/>
+        <Button x:Name="ExitBttn" Content="" HorizontalAlignment="Left" Margin="501,230,0,0" VerticalAlignment="Top" Width="80" Height="40" Background="#00FF0000" Foreground="Black" BorderBrush="#3300FF5D" Opacity="0.3" Click="ExitBttn_Click"/>
+
+    </Grid>
+</Window>

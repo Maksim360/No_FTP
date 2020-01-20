@@ -1,0 +1,32 @@
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csprojAssemblyReference.cache
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.exe.config
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.exe
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.pdb
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\Ionic.Zip.dll
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\MainWindow.g.cs
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\App.g.cs
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy_MarkupCompile.cache
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy_MarkupCompile.lref
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\MainWindow.baml
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.g.resources
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.Properties.Resources.resources
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csproj.GenerateResource.cache
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csproj.CopyComplete
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.exe
+E:\Develop\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.pdb
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.exe.config
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.exe
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\FTP Client from Maxim360 and CosmicGuy.pdb
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\bin\Debug\Ionic.Zip.dll
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csprojAssemblyReference.cache
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\MainWindow.g.cs
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\App.g.cs
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy_MarkupCompile.cache
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy_MarkupCompile.lref
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\MainWindow.baml
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.g.resources
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.Properties.Resources.resources
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csproj.GenerateResource.cache
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP_Client_from_Maxim360_and_CosmicGuy.csproj.CopyComplete
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.exe
+E:\VarSquad\FTP Client from Maxim360 and CosmicGuy\FTP Client from Maxim360 and CosmicGuy\obj\Debug\FTP Client from Maxim360 and CosmicGuy.pdb

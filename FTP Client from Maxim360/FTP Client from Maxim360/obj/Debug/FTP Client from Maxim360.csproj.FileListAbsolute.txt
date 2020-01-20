@@ -1,0 +1,38 @@
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.exe.config
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.exe
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.pdb
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csprojAssemblyReference.cache
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\MainWindow.g.cs
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\App.g.cs
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360_MarkupCompile.cache
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360_MarkupCompile.lref
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\MainWindow.baml
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.g.resources
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP_Client_from_Maxim360.Properties.Resources.resources
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csproj.GenerateResource.cache
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.exe
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.pdb
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\Ionic.Zip.dll
+E:\Develop\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csproj.CopyComplete
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csprojAssemblyReference.cache
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\MainWindow.g.cs
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\App.g.cs
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360_MarkupCompile.cache
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360_MarkupCompile.lref
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.exe
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.pdb
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.exe.config
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.exe
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\FTP Client from Maxim360.pdb
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\bin\Debug\Ionic.Zip.dll
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\MainWindow.baml
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.g.resources
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP_Client_from_Maxim360.Properties.Resources.resources
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csproj.GenerateResource.cache
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\FTP Client from Maxim360.csproj.CopyComplete
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\AuthorizationUsers.g.cs
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\CodeDostup.g.cs
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\RegistationUsers.g.cs
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\AuthorizationUsers.baml
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\CodeDostup.baml
+F:\Dev\FTP Client from Maxim360\FTP Client from Maxim360\obj\Debug\RegistationUsers.baml
