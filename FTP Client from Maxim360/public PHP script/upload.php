@@ -7,7 +7,7 @@ $ip = "1";
 				echo '46436';
 		break;
 	}
-$AllowedIP = array("66.130.165.78", "5.182.25.68", "185.247.21.238", "1");
+$AllowedIP = array("$AllowedIP1", "$AllowedIP2");
 
 if (in_array($ip, $AllowedIP)) {
        //echo "<br>Ваш IP подходит для загрузки!!!</br>";
